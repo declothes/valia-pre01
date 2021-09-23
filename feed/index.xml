@@ -8,16 +8,16 @@
 	>
 
 <channel>
-	<title>Produk Valia (Gosok &amp; Oles)</title>
+	<title>Valia | Produk COD (bayar di Tempat)</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description>COD (Bayar di Tempat)</description>
-	<lastBuildDate>Mon, 02 Aug 2021 07:04:19 +0000</lastBuildDate>
+	<description>Langsung Kirim</description>
+	<lastBuildDate>Mon, 20 Sep 2021 15:32:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8</generator>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>
